@@ -18,7 +18,7 @@ WS = f"{HOME}/SISO_Workspace"
 
 # Known SISO project divisions (registered in-place; repo_path is where each lives).
 DIVISIONS = [
-    ("oracle-streaming", "Oracle Streaming", f"{WS}/SISO_Agency/apps/oracle-streaming"),
+    ("oracle-streaming", "Oracle Streaming", f"{WS}/SISO_Agency/partners/halo/oracle/core"),
     ("isso-dashboard", "ISSO Dashboard", f"{WS}/SISO_Agency/apps/isso-dashboard"),
     ("agent-base", "SISO Agent Base", f"{WS}/SISO_Agents/siso-agent-base"),
     ("internal-lab", "SISO Internal Lab / LifeLock", f"{WS}/SISO_Internal_Lab"),
